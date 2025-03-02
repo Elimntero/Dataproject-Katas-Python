@@ -69,18 +69,18 @@ Se desarrollan conocimientos básicos de Python: funciones, listas, manejo de ex
 
 # 🔧 Instalación
 
-1. Clona este repositorio o descarga los archivos. Para clonarlo entra en: https://github.com/usuario/katas-python.git
+1. Clona este repositorio o descarga los archivos. Si desea clonar el repositorio: https://github.com/usuario/katas-python.git
 
 2. Asegúrate de tener Python instalado en tu sistema.
 
 3. Ejecuta los scripts desde la terminal o un entorno de desarrollo como VS Code o Jupyter Notebook.
+   
 
 # 💻 Uso
 
 Ejecuta cada archivo Python para resolver los ejercicios propuestos y verificar sus resultados. 
 
 Puedes modificar los códigos para experimentar y mejorar su funcionamiento.
-
 
 
 # 🔑 Licencia
