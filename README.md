@@ -3,73 +3,71 @@
 
 Este proyecto consiste en una serie de ejercicios de lógica en Python, enfocados en el uso de funciones, manejo de listas, uso de map(), filter(), reduce(), manejo de excepciones y creación de clases. Su objetivo es reforzar el pensamiento algorítmico y la comprensión de estructuras de datos y funciones en Python.
 
-# Requisitos
+# 🔎 Requisitos
 
 Python 3.x instalado.
 
 Conocimientos básicos de Python: funciones, listas, manejo de excepciones y POO.
 
-# Contenido del Proyecto
+# 📑 Contenido del Proyecto
 
-Funciones y Manipulación de Listas
+- Funciones y Manipulación de Listas
 
-Contar la frecuencia de letras en una cadena.
+- Contar la frecuencia de letras en una cadena.
 
-Duplicar valores de una lista usando map().
+- Duplicar valores de una lista usando map().
 
-Filtrar palabras en una lista según un criterio.
+- Filtrar palabras en una lista según un criterio.
 
-Calcular diferencias entre listas con map().
+- Calcular diferencias entre listas con map().
 
-Determinar el estado de aprobación según promedio de una lista.
+- Determinar el estado de aprobación según promedio de una lista.
 
-Cálculo de factorial de un número de manera recursiva.
+- Cálculo de factorial de un número de manera recursiva.
 
-Convertir listas de tuplas en listas de strings con map().
+- Convertir listas de tuplas en listas de strings con map().
 
-Filtrar nombres prohibidos en una lista con filter().
+- Filtrar nombres prohibidos en una lista con filter().
 
-# Manejo de Excepciones
+# 📚 Manejo de Excepciones
 
-Programa de división segura con manejo de errores.
+- Programa de división segura con manejo de errores.
+  
+- Excepciones personalizadas en cálculo de promedios.
 
-Excepciones personalizadas en cálculo de promedios.
+- Verificación de edad dentro de un rango válido.
 
-Verificación de edad dentro de un rango válido.
+- Uso de map(), filter(), reduce()
 
-Uso de map(), filter(), reduce()
+- Obtención de longitud de palabras en una frase con map().
 
-Obtención de longitud de palabras en una frase con map().
+- Creación de una lista de tuplas con letras en mayúsculas y minúsculas.
 
-Creación de una lista de tuplas con letras en mayúsculas y minúsculas.
+- Filtrar palabras por inicial.
 
-Filtrar palabras por inicial.
+- Sumar 3 a cada elemento de una lista con una función lambda.
 
-Sumar 3 a cada elemento de una lista con una función lambda.
+- Convertir lista de dígitos a un número con reduce().
 
-Convertir lista de dígitos a un número con reduce().
+- Filtrar estudiantes con nota mayor o igual a 90.
 
-Filtrar estudiantes con nota mayor o igual a 90.
+- Operaciones matemáticas con lambda, map(), filter(), reduce().
 
-Operaciones matemáticas con lambda, map(), filter(), reduce().
+# 📐 Clases y Objetos
 
-# Clases y Objetos
+- Implementación de una clase Arbol con atributos y métodos para manipular su estructura.
 
-Implementación de una clase Arbol con atributos y métodos para manipular su estructura.
+- Creación de la clase UsuarioBanco para simulación de operaciones bancarias.
 
-Creación de la clase UsuarioBanco para simulación de operaciones bancarias.
+- Programa que determina si es de día, noche o tarde según la hora ingresada.
 
-# Otros Ejercicios
+- Conversión de notas numéricas a texto según un criterio de evaluación.
 
-Programa que determina si es de día, noche o tarde según la hora ingresada.
+- Cálculo de área de diferentes figuras según parámetros recibidos.
 
-Conversión de notas numéricas a texto según un criterio de evaluación.
+- Aplicación de descuentos en compras en línea según un cupón ingresado.
 
-Cálculo de área de diferentes figuras según parámetros recibidos.
-
-Aplicación de descuentos en compras en línea según un cupón ingresado.
-
-# Instalación
+# 🔧 Instalación
 
 Clona este repositorio o descarga los archivos.
 
@@ -79,15 +77,15 @@ Asegúrate de tener Python instalado en tu sistema.
 
 Ejecuta los scripts desde la terminal o un entorno de desarrollo como VS Code o Jupyter Notebook.
 
-# Uso
+# 💻 Uso
 
-Ejecuta cada archivo Python para resolver los ejercicios propuestos y verificar sus resultados. Puedes modificar los códigos para experimentar y mejorar su funcionamiento.
+Ejecuta cada archivo Python para resolver los ejercicios propuestos y verificar sus resultados. 
 
-Contribución
+Puedes modificar los códigos para experimentar y mejorar su funcionamiento.
 
-Si deseas contribuir al proyecto, puedes realizar un fork y enviar un pull request con tus mejoras o nuevas katas.
 
-# Licencia
+
+# 🔑 Licencia
 
 Este proyecto está bajo la licencia MIT.
 
