@@ -7,7 +7,7 @@ Este proyecto consiste en una serie de ejercicios de lógica en Python, enfocado
 
 Python 3.x instalado.
 
-Conocimientos básicos de Python: funciones, listas, manejo de excepciones y POO.
+Se desarrollan conocimientos básicos de Python: funciones, listas, manejo de excepciones y POO.
 
 # 📑 Contenido del Proyecto
 
@@ -69,13 +69,11 @@ Conocimientos básicos de Python: funciones, listas, manejo de excepciones y POO
 
 # 🔧 Instalación
 
-Clona este repositorio o descarga los archivos.
+1. Clona este repositorio o descarga los archivos. Para clonarlo entra en: https://github.com/usuario/katas-python.git
 
-git clone https://github.com/usuario/katas-python.git
+2. Asegúrate de tener Python instalado en tu sistema.
 
-Asegúrate de tener Python instalado en tu sistema.
-
-Ejecuta los scripts desde la terminal o un entorno de desarrollo como VS Code o Jupyter Notebook.
+3. Ejecuta los scripts desde la terminal o un entorno de desarrollo como VS Code o Jupyter Notebook.
 
 # 💻 Uso
 
